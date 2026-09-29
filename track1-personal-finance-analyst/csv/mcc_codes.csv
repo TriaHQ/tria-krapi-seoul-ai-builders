@@ -1,0 +1,27 @@
+mcc,description,category
+5812,"Eating Places, Restaurants",Dining
+5814,Fast Food Restaurants,Dining
+5411,"Grocery Stores, Supermarkets",Groceries
+5499,Convenience Stores,Groceries
+4121,Taxicabs and Rideshare,Transport
+4111,Local Commuter Transport,Transport
+5541,Service Stations,Transport
+4511,Airlines,Travel
+7011,Hotels and Lodging,Travel
+5311,Department Stores,Shopping
+5651,Clothing Stores,Shopping
+5732,Electronics Stores,Shopping
+5942,Book Stores,Shopping
+4899,Cable and Streaming Services,Subscriptions
+5815,Digital Media,Subscriptions
+5817,Software and Apps,Subscriptions
+7832,Movie Theaters,Entertainment
+7922,Concert and Theater Tickets,Entertainment
+5912,Pharmacies,Health
+8011,Doctors and Clinics,Health
+7997,Gyms and Fitness Clubs,Health
+4814,Telecom Services,Utilities
+4900,Electric and Gas Utilities,Utilities
+8299,Schools and Online Courses,Education
+6011,ATM Cash Withdrawal,Cash
+7995,Betting and Gambling,Gambling
