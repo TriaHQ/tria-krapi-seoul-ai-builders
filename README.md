@@ -31,6 +31,8 @@ Pick whichever format suits your tools:
 - **SQLite** (`data.sqlite`): a real SQL database with no setup. Works with Python's built-in `sqlite3`, Node's `better-sqlite3`, or any SQL client.
 - **CSV** (`csv/`): import into Supabase (the database Lovable uses), Google Sheets or pandas, or upload straight to ChatGPT or Claude.
 
+**Using Lovable?** It can't read `data.sqlite`. In your project's Supabase, open **Table Editor → New table → Import data from CSV** and import each CSV from `csv/` as its own table.
+
 Use any tools you like: Lovable, Cursor, Claude Code, Replit, v0, or your own code.
 
 ## Rules

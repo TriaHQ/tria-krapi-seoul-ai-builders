@@ -4,21 +4,19 @@ Logged-in affiliate: **Jiwoo Han (affiliate_id 7)**. "Today" is 2026-09-30. Use 
 
 ## 1. "How much did I earn in September?"
 
-$402.15
+$356.70
 
 *Earned commissions only (reversed ones excluded), Level 1 + Level 2, by sale date.*
 
-## 2. "Who are my top 5 referrals?"
+## 2. "Who are my top 3 referrals?"
 
 By paid purchase amount:
 
-1. Kim Woomin: $646.00 (4 purchases)
-2. Jung Eunwon: $597.00 (3 purchases)
-3. Choi Yuna: $498.00 (2 purchases)
-4. Seo Hyeseok: $498.00 (2 purchases)
-5. Cho Jiwon: $397.00 (3 purchases)
+1. Taeyang Choi: $597.00 (3 purchases)
+2. Bora Kang: $594.00 (6 purchases)
+3. Nayeon Cho: $447.00 (3 purchases)
 
-*Refunded purchases excluded.*
+*Refunded purchases excluded. Tied referrals can be listed in any order.*
 
 ## 3. "What tier am I, and how close am I to the next one?"
 
@@ -28,12 +26,12 @@ You are Gold in September (you had 17 paid direct sales in August). So far in Se
 
 ## 4. "How much of my earnings come from my own referrals vs my recruits?"
 
-Level 1 (your referrals): $1,473.45. Level 2 (your recruits' referrals): $299.55. Total: $1,773.00.
+Level 1 (your referrals): $1,263.45. Level 2 (your recruits' referrals): $614.65. Total: $1,878.10.
 
 *All time, earned only.*
 
-## 5. "Why did I earn $49.80 on sale #462?"
+## 5. "Why did I earn $49.80 on sale #438?"
 
-Sale #462 was a signature card ($249.00) bought by your referral on 2026-07-14. It is a Level 1 commission. You were Gold in July (you had 16 paid direct sales in June), and Gold pays 20% on Level 1: $249.00 × 20% = $49.80.
+Sale #438 was a signature card ($249.00) bought by your referral on 2026-07-14. It is a Level 1 commission. You were Gold in July (you had 16 paid direct sales in June), and Gold pays 20% on Level 1: $249.00 × 20% = $49.80.
 
 *Needs the data (sale, tier_at_time) and the guide (rate for that tier and level).*

@@ -35,7 +35,7 @@ Answer questions like these for the logged-in affiliate:
 ## Requirements
 
 - The bot answers only about the **logged-in affiliate**. Make the affiliate ID a setting; judges will switch it.
-- It must refuse to reveal another affiliate's earnings, including their upline's.
+- It must refuse to reveal another affiliate's earnings, including their upline's. It may name the affiliate's own recruits and show what the logged-in affiliate earned through them.
 - Rates and tier rules are only in the guide, not in the tables, so the bot has to use both.
 - Figures must match the data. Check against [SAMPLE_QUESTIONS.md](SAMPLE_QUESTIONS.md).
 

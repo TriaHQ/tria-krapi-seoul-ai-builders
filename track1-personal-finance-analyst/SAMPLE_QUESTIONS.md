@@ -8,7 +8,7 @@ $936.84 (completed Dining transactions only, restaurants + fast food).
 
 *Exclude declined and refunded rows.*
 
-## 2. "Show my spending by category for the last 3 months as a chart."
+## 2. "Show my spending by category from July to September as a chart."
 
 Jul–Sep 2026, completed only:
 

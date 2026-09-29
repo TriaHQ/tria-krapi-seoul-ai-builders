@@ -29,7 +29,7 @@ Level 2 goes up one level only: you earn from your recruits' referrals, not from
 
 Your referral buys a Signature Card while you are Silver. You earn Level 1: $249 × 15% = **$37.35**.
 
-Your recruit, Sam, is the one whose referral buys it instead. Sam earns Level 1 at Sam's own tier, and you earn Level 2: $249 × 5% = **$12.45**.
+If instead the buyer was referred by one of your recruits, your recruit earns Level 1 at their own tier, and you earn Level 2: $249 × 5% = **$12.45**.
 
 ## Tiers
 

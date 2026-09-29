@@ -22,7 +22,7 @@ Tables, columns and the rules for reading them are in [SCHEMA.md](SCHEMA.md).
 Answer questions like these for the logged-in user:
 
 - "How much did I spend on dining in August?"
-- "Show my spending by category for the last 3 months as a chart."
+- "Show my spending by category from July to September as a chart."
 - "Which subscriptions am I paying for?"
 - "Am I making or losing money on trading? How much am I paying in fees?"
 - "Who are my top 5 merchants?"

@@ -58,7 +58,7 @@ Money earned by affiliates from sales. One sale creates up to two rows (see the 
 | affiliate_id | integer | → `affiliates.affiliate_id`, who earns this commission |
 | sale_id | integer | → `sales.sale_id` |
 | level | integer | `1` or `2` (see the guide) |
-| tier_at_time | text | The earning affiliate's tier in the month of the sale |
+| tier_at_time | text | The earning affiliate's tier in the month of the sale. Only matters for Level 1: Level 2 always pays 5% |
 | amount_usd | real | Commission amount |
 | status | text | `earned` or `reversed` (the sale was refunded) |
 
